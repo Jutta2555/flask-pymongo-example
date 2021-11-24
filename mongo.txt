@@ -1,0 +1,3 @@
+user : mflixuser
+pass : CQNQmXIQXlnqD4fQ
+mongodb+srv://mflixuser:CQNQmXIQXlnqD4fQ@sandbox.hkmmq.mongodb.net/sample_mflix
